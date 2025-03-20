@@ -1,7 +1,7 @@
 # Importation des bibliothèques nécessaires
 import pandas as pd
 import os
-
+python -m venv env
 # Obtenir le chemin du répertoire actuel
 current_directory = os.getcwd()  # Répertoire de travail actuel
 nom_fichier = "p2-arbres-fr.csv"  # Nom du fichier
